@@ -51,22 +51,22 @@
 		    <div class="collapse navbar-collapse" id="a">
 		      <ul class="navbar-nav ml-auto">
 		        <li class="nav-item">
-		          <a class="nav-link text-uppercase px-3 nav-link-active" href="index.html">
+		          <a class="nav-link text-uppercase px-3 nav-link-active" href="index.php">
 		            Home
 		          </a>
 		        </li>
 		        <li class="nav-item">
-		          <a class="nav-link text-uppercase px-3 nav-link-active" href="about.html">
+		          <a class="nav-link text-uppercase px-3 nav-link-active" href="about.php">
 		            About
 		          </a>
 		        </li>
 		        <li class="nav-item">
-		          <a class="nav-link text-uppercase px-3 nav-link-active active" href="work.html">
+		          <a class="nav-link text-uppercase px-3 nav-link-active active" href="work.php">
 		            Work
 		          </a>
 		        </li>
 		        <li class="nav-item">
-		          <a class="nav-link text-uppercase px-3 nav-link-active" href="contact.html">
+		          <a class="nav-link text-uppercase px-3 nav-link-active" href="contact.php">
 		            Contact
 		          </a>
 		        </li>
